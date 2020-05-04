@@ -1,3 +1,5 @@
+T = True
+F = False
 solution_student = []  # in this list your answers are stored
 
 # Assignment 00:
@@ -12,35 +14,35 @@ solution_student.append(True)  # the answer will be appended to the list
 # y = [1,2]
 # x == y ?? True or False ?
 
-solution_student.append(True)
+solution_student.append(T)
 
 # Assignment 02:
 # x = [1,2]
 # y = [1,2]
 # x is y ?? True or False ?
 
-solution_student.append(False)
+solution_student.append(F)
 
 # Assignment 03:
 # x = [1,2]
 # y = x
 # x == y ?? True or False ?
 
-solution_student.append(True)
+solution_student.append(T)
 
 # Assignment 04:
 # x = [1,2]
 # y = x
 # x is y ?? True or False ?
 
-solution_student.append(True)
+solution_student.append(T)
 
 # Assignment 05:
 # x = 5
 # y = 5
 # x is y ?? True or False ?
 
-solution_student.append(True)
+solution_student.append(T)
 
 # Assignment 06:
 # x = 5
@@ -48,7 +50,7 @@ solution_student.append(True)
 # x = 6
 # x == y ?? True or False ?
 
-solution_student.append(False)
+solution_student.append(F)
 
 # Assignment 07:
 # x = 5
@@ -56,7 +58,7 @@ solution_student.append(False)
 # x = 6
 # x is y ?? True or False ?
 
-solution_student.append(False)
+solution_student.append(F)
 
 # Assignment 08:
 # x = 2
@@ -64,7 +66,7 @@ solution_student.append(False)
 # x = x + 1
 # x == y ?? True or False ?
 
-solution_student.append(False)
+solution_student.append(F)
 
 # Assignment 09:
 # x = [1,2]
@@ -72,7 +74,7 @@ solution_student.append(False)
 # x.append(3)
 # x is y ?? True or False ?
 
-solution_student.append(True)
+solution_student.append(T)
 
 # Assignment 10:
 # x = [1,2]
@@ -80,7 +82,7 @@ solution_student.append(True)
 # x.append(3)
 # x == y ?? True or False ?
 
-solution_student.append(True)
+solution_student.append(T)
 
 
 if __name__ == '__main__':
