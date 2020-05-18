@@ -55,7 +55,7 @@ if __name__ == '__main__':
 	if False in results:
 		print('Not all numerals translated correctly. Try again.')
 	else:
-		print('Well done! All numerals translated correctly.')
+		print('Well done! U copied correctly from internet! I am proud! All numerals translated correctly.')
 
 print(translate_numeral("XX"))
 
