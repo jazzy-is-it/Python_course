@@ -59,3 +59,7 @@ if __name__ == '__main__':
 
 print(translate_numeral("XX"))
 
+
+
+def square_n(n):
+	return
